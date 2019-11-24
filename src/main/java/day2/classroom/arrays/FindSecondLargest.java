@@ -15,8 +15,7 @@ public class FindSecondLargest {
 		 Pseudo Code:
 		 1) Arrange the array in ascending order
 		 2) Pick the last but one and print
-		 */
-			
+		 */	
 		// Print the second largest number	
 		
 		
